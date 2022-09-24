@@ -24,8 +24,8 @@ var storage = storages.create("data");
  * @param whether_froze_app {String} 是否要冻结学习强国(需要root授权) "yes":开启; "no"(默认):不开启
  * @param open_console {Boolean} 是否开启控制台悬浮窗 true:开启; false(默认):不开启
  * @param whether_improve_accuracy {String} 是否提高ocr精度 "yes":开启; "no"(默认):不开启
- * @param AK {String} 百度API KEY
- * @param SK {String} 百度Secret KEY
+ * @param AK {String} 百度API KEYGAixZLQD34yjNMC9Dhc0gBdGEv8UVzbe
+ * @param SK {String} 百度Secret KEYkEiF9G4VXjhc0eIKH2CQBfZn
  * @return {int} 静音前的音量
  */
 function check_set_env(whether_mute, whether_froze_app,
